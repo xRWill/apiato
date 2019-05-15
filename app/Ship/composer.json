@@ -1,6 +1,12 @@
 {
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/xRWill/core"
+    }
+  ],
   "require": {
-    "xRWill/core": "dev-master",
+    "apiato/core": "dev-master",
     "barryvdh/laravel-debugbar": "3.*"
   },
   "require-dev": {
