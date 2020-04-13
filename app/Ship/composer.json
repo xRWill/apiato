@@ -1,10 +1,4 @@
 {
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/xRWill/core"
-    }
-  ],
   "require": {
     "apiato/core": "dev-master"
   },
